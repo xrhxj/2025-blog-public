@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "XXxmh",
-		"description": "XXxmh 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"title": "YYxmh",
+		"description": "YYxmh 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "xmh"
 	},
 	"theme": {
@@ -44,14 +44,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/xrhxj",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "2830837612@qq.com",
 			"label": "",
 			"order": 1
 		}
